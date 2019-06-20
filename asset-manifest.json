@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeio-summer-workshop/static/css/main.61e4a915.chunk.css",
+    "main.js": "/codeio-summer-workshop/static/js/main.170b2c7f.chunk.js",
+    "main.js.map": "/codeio-summer-workshop/static/js/main.170b2c7f.chunk.js.map",
+    "runtime~main.js": "/codeio-summer-workshop/static/js/runtime~main.255dfc49.js",
+    "runtime~main.js.map": "/codeio-summer-workshop/static/js/runtime~main.255dfc49.js.map",
+    "static/js/2.e0b8be50.chunk.js": "/codeio-summer-workshop/static/js/2.e0b8be50.chunk.js",
+    "static/js/2.e0b8be50.chunk.js.map": "/codeio-summer-workshop/static/js/2.e0b8be50.chunk.js.map",
+    "index.html": "/codeio-summer-workshop/index.html",
+    "precache-manifest.058f3bbba39c50890e053133137b0ebf.js": "/codeio-summer-workshop/precache-manifest.058f3bbba39c50890e053133137b0ebf.js",
+    "service-worker.js": "/codeio-summer-workshop/service-worker.js",
+    "static/css/main.61e4a915.chunk.css.map": "/codeio-summer-workshop/static/css/main.61e4a915.chunk.css.map"
+  }
+}
